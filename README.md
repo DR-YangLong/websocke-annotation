@@ -15,8 +15,7 @@ click connect to connect server and will receive a message.
 ## client 
 run main method in TestApp
 
-other demo:
-https://github.com/DR-YangLong/websocket
-
-https://github.com/DR-YangLong/websocket-standard
+other demo:    
+1. https://github.com/DR-YangLong/websocket
+2. https://github.com/DR-YangLong/websocket-standard
 
